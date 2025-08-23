@@ -1,3 +1,1 @@
 # MusicSeparation
-
-## https://youtu.be/XCngcTa9pBg?si=GKS3-6JKpj9A0gnx
